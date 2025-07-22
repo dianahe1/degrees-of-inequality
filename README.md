@@ -5,7 +5,7 @@ My final project for the Kode with Klossy BWDC Challenge!
 ## Introduction
 This site shows the failed impact of education on the racial wealth gap.
 
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/).
+See a live demo of the page [here](https://dianahe1.github.io/degrees-of-inequality/).
 
 
 ## Setup
