@@ -1,5 +1,5 @@
 <script>
-    import TitleImg from "/duck.png";
+    import TitleImg from "/hat-outline.png";
     import TitleBorder from "/kwk_bdwc_1.png";
 </script>
 

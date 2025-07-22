@@ -6,7 +6,7 @@
     import Scroller from "../lib/Scroller.svelte";
     import ObservedArticleText from "../lib/ObservedArticleText.svelte";
 
-    import IntroBorder from "/intro-border.png";
+    import IntroBorder from "/kwk2.png";
 
     let subTitleVisible = false;
 
