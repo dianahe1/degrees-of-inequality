@@ -1,9 +1,8 @@
 {
-  "name": "degress-of-inequality",
+  "name": "degrees-of-inequality",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dianahe1.github.io/degress-of-inequality",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -16,5 +15,6 @@
     "gh-pages": "^6.3.0",
     "svelte": "^5.28.1",
     "vite": "^6.3.5"
-  }
+  },
+  "homepage": "https://dianahe1.github.io/degrees-of-inequality"
 }
